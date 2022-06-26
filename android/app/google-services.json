@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "651106676665",
+    "firebase_url": "https://stocks-data-app-default-rtdb.firebaseio.com",
+    "project_id": "stocks-data-app",
+    "storage_bucket": "stocks-data-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651106676665:android:67bbcbe8e6d65aff05d068",
+        "android_client_info": {
+          "package_name": "com.example.stock_data_app_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651106676665-993avf7uqvgh9q3crplt4bml0meekftd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZUOrXmZYbdTfWcKWwXnzDbC30aKcmnGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651106676665-993avf7uqvgh9q3crplt4bml0meekftd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651106676665-464pegnm5v9v7ij6nbp6d13ndkpo1jsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stockDataApp3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651106676665:android:7fd8d9175b2689bc05d068",
+        "android_client_info": {
+          "package_name": "com.flutterflow.stocksdataapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651106676665-1scg97dljig7m527thehk0pngkq4mfnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.stocksdataapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "651106676665-993avf7uqvgh9q3crplt4bml0meekftd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZUOrXmZYbdTfWcKWwXnzDbC30aKcmnGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651106676665-993avf7uqvgh9q3crplt4bml0meekftd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651106676665-464pegnm5v9v7ij6nbp6d13ndkpo1jsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stockDataApp3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651106676665:android:303258761046435005d068",
+        "android_client_info": {
+          "package_name": "com.mycompany.reksadana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651106676665-4bppd8k1bqoinbpo0apkh87b8ke0u23l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.reksadana",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "651106676665-993avf7uqvgh9q3crplt4bml0meekftd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZUOrXmZYbdTfWcKWwXnzDbC30aKcmnGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651106676665-993avf7uqvgh9q3crplt4bml0meekftd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651106676665-464pegnm5v9v7ij6nbp6d13ndkpo1jsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stockDataApp3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
